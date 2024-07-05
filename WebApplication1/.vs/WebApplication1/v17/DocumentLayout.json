@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|c:\\users\\desarrollo\\cursocsharp\\backenddotnet\\webapplication1\\webapplication1\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\services\\ibeerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\ibeerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\dto\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\dto\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\dto\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\migrations\\20240621232832_addalcoholbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240621232832_addalcoholbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Migrations\\20240621231335_InitDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:WebApplication1\\Migrations\\20240621231335_InitDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\webapplication1\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B36A1D0-9843-4E16-A783-1D000E2CCA31}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T17:43:38.884Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\BeerService.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Services\\BeerService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\BeerService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwD8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:20:46.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBeerService.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Services\\IBeerService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IBeerService.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Services\\IBeerService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IBeerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:19:37.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BeerController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BeerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:16:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BeerUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\DTO\\BeerUpdateDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\BeerUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\DTO\\BeerUpdateDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\BeerUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:23:05.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeerInsertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\DTO\\BeerInsertDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\BeerInsertDTO.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\DTO\\BeerInsertDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\BeerInsertDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:19:07.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BeerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\DTO\\BeerDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\BeerDTO.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\DTO\\BeerDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\BeerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:17:32.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PeopleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:53:23.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:56:33.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OperationController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\OperationController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\OperationController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\OperationController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\OperationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:56:02.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Services\\PostsService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\PostsService.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Services\\PostsService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\PostsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:53:11.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RandomController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\RandomController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RandomController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\RandomController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\RandomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:52:35.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\SomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SomeController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Controllers\\SomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:52:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240621232832_AddAlcoholBeer.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Migrations\\20240621232832_AddAlcoholBeer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240621232832_AddAlcoholBeer.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Migrations\\20240621232832_AddAlcoholBeer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240621232832_AddAlcoholBeer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:28:33.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-21T23:18:04.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Migrations\\StoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\StoreContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Migrations\\StoreContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\StoreContextModelSnapshot.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:15:49.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240621231335_InitDB.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Migrations\\20240621231335_InitDB.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240621231335_InitDB.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Migrations\\20240621231335_InitDB.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240621231335_InitDB.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:13:35.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:06:41.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T22:20:50.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Models\\StoreContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Models\\StoreContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:04:29.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Beer.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Models\\Beer.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Beer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:01:40.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\cursoCSharp\\backendDotNet\\WebApplication1\\WebApplication1\\Models\\Brand.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:00:04.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
