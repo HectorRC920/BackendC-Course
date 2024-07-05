@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\8LINQ\bin\Debug\net8.0\8LINQ.exe
+C:\Users\Desarrollo\cursoCSharp\8LINQ\bin\Debug\net8.0\8LINQ.deps.json
+C:\Users\Desarrollo\cursoCSharp\8LINQ\bin\Debug\net8.0\8LINQ.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\8LINQ\bin\Debug\net8.0\8LINQ.dll
+C:\Users\Desarrollo\cursoCSharp\8LINQ\bin\Debug\net8.0\8LINQ.pdb
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\8LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\8LINQ.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\8LINQ.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\8LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\8LINQ.dll
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\refint\8LINQ.dll
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\8LINQ.pdb
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\8LINQ.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\8LINQ\obj\Debug\net8.0\ref\8LINQ.dll

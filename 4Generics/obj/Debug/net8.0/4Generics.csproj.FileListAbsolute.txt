@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\4Generics\bin\Debug\net8.0\4Generics.exe
+C:\Users\Desarrollo\cursoCSharp\4Generics\bin\Debug\net8.0\4Generics.deps.json
+C:\Users\Desarrollo\cursoCSharp\4Generics\bin\Debug\net8.0\4Generics.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\4Generics\bin\Debug\net8.0\4Generics.dll
+C:\Users\Desarrollo\cursoCSharp\4Generics\bin\Debug\net8.0\4Generics.pdb
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\4Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\4Generics.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\4Generics.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\4Generics.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\4Generics.dll
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\refint\4Generics.dll
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\4Generics.pdb
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\4Generics.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\4Generics\obj\Debug\net8.0\ref\4Generics.dll

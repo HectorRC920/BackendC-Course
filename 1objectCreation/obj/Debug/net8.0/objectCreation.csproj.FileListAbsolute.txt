@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\objectCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\objectCreation.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\objectCreation.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\objectCreation.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\bin\Debug\net8.0\objectCreation.exe
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\bin\Debug\net8.0\objectCreation.deps.json
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\bin\Debug\net8.0\objectCreation.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\bin\Debug\net8.0\objectCreation.dll
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\bin\Debug\net8.0\objectCreation.pdb
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\objectCreation.dll
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\refint\objectCreation.dll
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\objectCreation.pdb
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\objectCreation.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\1objectCreation\obj\Debug\net8.0\ref\objectCreation.dll

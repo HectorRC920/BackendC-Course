@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\2inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\2inheritance.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\2inheritance.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\2inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\2inheritance\bin\Debug\net8.0\2inheritance.exe
+C:\Users\Desarrollo\cursoCSharp\2inheritance\bin\Debug\net8.0\2inheritance.deps.json
+C:\Users\Desarrollo\cursoCSharp\2inheritance\bin\Debug\net8.0\2inheritance.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\2inheritance\bin\Debug\net8.0\2inheritance.dll
+C:\Users\Desarrollo\cursoCSharp\2inheritance\bin\Debug\net8.0\2inheritance.pdb
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\2inheritance.dll
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\refint\2inheritance.dll
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\2inheritance.pdb
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\2inheritance.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\2inheritance\obj\Debug\net8.0\ref\2inheritance.dll

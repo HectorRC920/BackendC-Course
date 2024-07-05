@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\bin\Debug\net8.0\7lambdaExpressions.exe
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\bin\Debug\net8.0\7lambdaExpressions.deps.json
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\bin\Debug\net8.0\7lambdaExpressions.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\bin\Debug\net8.0\7lambdaExpressions.dll
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\bin\Debug\net8.0\7lambdaExpressions.pdb
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\7lambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\7lambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\7lambdaExpressions.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\7lambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\7lambdaExpressions.dll
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\refint\7lambdaExpressions.dll
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\7lambdaExpressions.pdb
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\7lambdaExpressions.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\7lambdaExpressions\obj\Debug\net8.0\ref\7lambdaExpressions.dll

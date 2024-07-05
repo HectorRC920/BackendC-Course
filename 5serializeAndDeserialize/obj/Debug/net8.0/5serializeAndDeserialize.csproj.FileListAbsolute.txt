@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\bin\Debug\net8.0\5serializeAndDeserialize.exe
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\bin\Debug\net8.0\5serializeAndDeserialize.deps.json
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\bin\Debug\net8.0\5serializeAndDeserialize.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\bin\Debug\net8.0\5serializeAndDeserialize.dll
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\bin\Debug\net8.0\5serializeAndDeserialize.pdb
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\5serializeAndDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\5serializeAndDeserialize.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\5serializeAndDeserialize.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\5serializeAndDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\5serializeAndDeserialize.dll
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\refint\5serializeAndDeserialize.dll
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\5serializeAndDeserialize.pdb
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\5serializeAndDeserialize.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\5serializeAndDeserialize\obj\Debug\net8.0\ref\5serializeAndDeserialize.dll

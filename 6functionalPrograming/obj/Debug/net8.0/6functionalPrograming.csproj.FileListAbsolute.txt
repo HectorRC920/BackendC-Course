@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\bin\Debug\net8.0\6functionalPrograming.exe
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\bin\Debug\net8.0\6functionalPrograming.deps.json
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\bin\Debug\net8.0\6functionalPrograming.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\bin\Debug\net8.0\6functionalPrograming.dll
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\bin\Debug\net8.0\6functionalPrograming.pdb
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\6functionalPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\6functionalPrograming.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\6functionalPrograming.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\6functionalPrograming.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\6functionalPrograming.dll
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\refint\6functionalPrograming.dll
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\6functionalPrograming.pdb
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\6functionalPrograming.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\6functionalPrograming\obj\Debug\net8.0\ref\6functionalPrograming.dll

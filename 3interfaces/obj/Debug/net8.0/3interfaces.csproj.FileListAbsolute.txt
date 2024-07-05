@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\3interfaces\bin\Debug\net8.0\3interfaces.exe
+C:\Users\Desarrollo\cursoCSharp\3interfaces\bin\Debug\net8.0\3interfaces.deps.json
+C:\Users\Desarrollo\cursoCSharp\3interfaces\bin\Debug\net8.0\3interfaces.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\3interfaces\bin\Debug\net8.0\3interfaces.dll
+C:\Users\Desarrollo\cursoCSharp\3interfaces\bin\Debug\net8.0\3interfaces.pdb
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\3interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\3interfaces.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\3interfaces.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\3interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\3interfaces.dll
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\refint\3interfaces.dll
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\3interfaces.pdb
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\3interfaces.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\3interfaces\obj\Debug\net8.0\ref\3interfaces.dll
